@@ -100,7 +100,7 @@
             />
 
         <Button
-            android:text="@string/salties"
+            android:text="@string/customizable"
             android:textColor="@color/dusty_white"
             android:background="@drawable/third_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_padding"
